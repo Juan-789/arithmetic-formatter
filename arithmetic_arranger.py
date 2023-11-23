@@ -1,5 +1,5 @@
 def arithmetic_arranger(problems: list, solve=False ) -> str:
-    first_line = ""
+    first_line = "" #empty strings of each line
     second_line = ""
     empty_line = ""
     ans_line = ""
